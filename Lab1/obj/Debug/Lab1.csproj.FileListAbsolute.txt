@@ -1,0 +1,6 @@
+/home/bishamon/RiderProjects/Lab1/Lab1/bin/Debug/Lab1.exe
+/home/bishamon/RiderProjects/Lab1/Lab1/bin/Debug/Lab1.pdb
+/home/bishamon/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.csprojResolveAssemblyReference.cache
+/home/bishamon/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/home/bishamon/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.exe
+/home/bishamon/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.pdb
